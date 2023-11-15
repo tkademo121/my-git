@@ -1,3 +1,5 @@
 This is my first git file
 
 just trying to make a few changes : Josh
+
+I am the master and i am making new changes in the file
